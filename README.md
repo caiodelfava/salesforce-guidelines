@@ -1,6 +1,6 @@
-# Salesforce - NEI.com.br
+# Salesforce
 
-NEI.com.br Salesforce Development Team guidelines.
+Salesforce Development guidelines.
 
 ![Apex Logo](./assets/apex_325x136.png)
 
