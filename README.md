@@ -1,6 +1,4 @@
-# Salesforce
-
-Salesforce Development guidelines.
+# Salesforce Development Guidelines
 
 ![Apex Logo](./assets/apex_325x136.png)
 
