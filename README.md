@@ -9,21 +9,44 @@
 * [Salesforce CLI](https://developer.salesforce.com/tools/sfdxcli)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Salesforce Extensions for VS Code](https://developer.salesforce.com/tools/extension_vscode)
-* [Java](https://www.youtube.com/watch?v=gR1PujzQ53Q)
+* [Java 11](https://www.youtube.com/watch?v=gR1PujzQ53Q) ([Oracle](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html), [OpenJDK](https://openjdk.org/install/) or [Zulu](https://www.azul.com/downloads/?version=java-11-lts&package=jdk) (required for Data Loader))
+* [Node.js](https://nodejs.org/en/download/) (active LTS version)
+* [Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet)
+
+### Recomended Setup
+
+* [Salesforce Data Loader](https://login.salesforce.com/lightning/setup/DataLoader/home)
+* [Git](https://git-scm.com/downloads)
+* [Chocolatey](https://chocolatey.org/install) (for Windows users)
 
 ### Recomended VS Code Extensions
 
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+* [Salesforce Extension Pack (Expanded)](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-expanded)
+* [Apex PMD](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-pmd)
+* [Apex Log Analyzer](https://marketplace.visualstudio.com/items?itemName=financialforce.lana)
+* [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 * [Salesforce Package.xml Generator](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
 * [Salesforce CLI Command Builder](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-command-builder)
-* [Apex Log Analyzer](https://marketplace.visualstudio.com/items?itemName=financialforce.lana)
+* [Salesforce Reference](https://marketplace.visualstudio.com/items?itemName=Oblongmana.vscode-salesforce-doc-lookup)
+* [Salesforce Documenter](https://marketplace.visualstudio.com/items?itemName=HugoOM.sfdx-autoheader)
+* [Salesforce Commerce Cloud Productivity Pack](https://marketplace.visualstudio.com/items?itemName=gkkirilov.salesforce-commerce-cloud-productivity-pack)
 
 ### Recomended Browser Extensions
 
 * [Salesforce inspector](https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh)
 * [Salesforce UI Improver](https://chrome.google.com/webstore/detail/salesforce-ui-improver/cfihjphppakcdhnkbnjboipgblbjapha)
-* [Salesforce Data Exporter](https://chrome.google.com/webstore/detail/salesforce-data-exporter/fimhgbeiaffioifgjfcfjnphifipknao)
+* [Demandware With Ease](https://chrome.google.com/webstore/detail/demandware-with-ease/ffhabonelknmejmdnekedmijlhebpcio)
+* [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+* [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+* [Raindrop.io](https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
 * [Copytables](https://chrome.google.com/webstore/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon)
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+* [Mobile View Switcher](https://chrome.google.com/webstore/detail/mobile-view-switcher/bmhfelbhbkeoldaiphchjibggnoodpcj)
+* [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
+* [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj)
 
 ### Recomended Blogs
 
